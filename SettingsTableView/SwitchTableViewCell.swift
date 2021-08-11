@@ -1,15 +1,6 @@
 //
 //  SwitchTableViewCell.swift
-//  SettingsTableView
-//
-//  Created by Felipe Ignacio Zapata Riffo on 10-08-21.
-//
-
-import UIKit
-
-//
-//  SettingTableViewCell.swift
-//  SettingsTableView
+//  SwitchTableViewCell
 //
 //  Created by Felipe Ignacio Zapata Riffo on 10-08-21.
 //
